@@ -1,3 +1,5 @@
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
+
 source ~/.config/bash/env.bash
 source ~/.config/bash/alias.bash
 
